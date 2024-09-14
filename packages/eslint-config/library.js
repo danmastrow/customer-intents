@@ -2,16 +2,12 @@ const { resolve } = require("node:path");
 
 const project = resolve(process.cwd(), "tsconfig.json");
 
-/** @type {import("eslint").Linter.Config} */
 module.exports = {
-  extends: ["eslint:recommended", "prettier", "turbo"],
-  plugins: ["only-warn"],
-  globals: {
-    React: true,
-    JSX: true,
-  },
-  env: {
-    node: true,
+  parser: '@typescript-eslint/parser',
+  parserOptions: {
+    project: 'tsconfig.json',
+    tsconfigRootDir: __dirname,
+    sourceType: 'module',
   },
   settings: {
     "import/resolver": {
@@ -19,6 +15,16 @@ module.exports = {
         project,
       },
     },
+  },
+  plugins: ['@typescript-eslint/eslint-plugin'],
+  extends: [
+    "eslint:recommended", "prettier",
+    "turbo"
+  ],
+  root: true,
+  env: {
+    node: true,
+    jest: true,
   },
   ignorePatterns: [
     // Ignore dotfiles
@@ -31,4 +37,10 @@ module.exports = {
       files: ["*.js?(x)", "*.ts?(x)"],
     },
   ],
+  rules: {
+    '@typescript-eslint/interface-name-prefix': 'off',
+    '@typescript-eslint/explicit-function-return-type': 'off',
+    '@typescript-eslint/explicit-module-boundary-types': 'off',
+    '@typescript-eslint/no-explicit-any': 'off',
+  },
 };
