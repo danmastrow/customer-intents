@@ -6,4 +6,4 @@ import { ApiStack } from '../lib/api-stack';
 
 const app = new cdk.App();
 new WebStack(app, 'WebStack', {});
-new ApiStack(app, 'ApiStack-2', {});
+new ApiStack(app, 'ApiStack', {});
