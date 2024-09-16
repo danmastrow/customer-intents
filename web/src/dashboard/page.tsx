@@ -3,6 +3,7 @@ import { CustomerIntent } from "../models/customer-intents";
 import SentimentPieChart from "./sentiment-pie-chart";
 import CategoryChart from "./category-chart";
 import Placeholder from "./placeholder";
+import IntentsTable from "./intents-table";
 
 const Dashboard = () => {
   const [customerIntents, setCustomerIntents] = useState<CustomerIntent[]>([]);
@@ -35,7 +36,7 @@ const Dashboard = () => {
           </h2>
 
           <div className="grid lg:grid-cols-2 grid-cols-1 gap-4 mb-4">
-            <div className="border rounded-md hover:shadow-md transition-all">
+            <div className="border rounded-md hover:shadow-md transition-all bg-gray-100">
               <CategoryChart intents={customerIntents} />
             </div>
             <div className="border rounded-md hover:shadow-md transition-all">
@@ -43,13 +44,12 @@ const Dashboard = () => {
             </div>
           </div>
 
-          <div className="h-48">
-            <Placeholder />
-          </div>
-
-          <div className="grid grid-cols-2 gap-4 mt-4">
-            <Placeholder />
-            <Placeholder />
+          <div className="grid grid-cols-1 gap-4 mt-16">
+            <IntentsTable intents={customerIntents} />
+            <div className="grid sm:grid-cols-2 grid-cols-1">
+              <Placeholder />
+              <div></div>
+            </div>
           </div>
         </div>
       </div>

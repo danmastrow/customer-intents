@@ -40,7 +40,15 @@ const SentimentPieChart = ({ intents }: CategoryChartProps) => {
     },
     [0, 0, 0]
   );
-  return <Chart options={options} series={series} type="pie" />;
+  return (
+    <Chart
+      height={350}
+      width="100%"
+      options={options}
+      series={series}
+      type="pie"
+    />
+  );
 };
 
 export default SentimentPieChart;

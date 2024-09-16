@@ -1,6 +1,6 @@
 const Placeholder = () => {
   return (
-    <div className="flex items-center justify-center h-48 mb-4 rounded bg-gray-50 dark:bg-gray-800 hover:shadow-md transition-all cursor-pointer">
+    <div className="flex items-center justify-center h-64 w-full max-w-sm mb-4 rounded bg-gray-50 dark:bg-gray-800 hover:shadow-md transition-all cursor-pointer">
       <p className="text-2xl text-gray-400 dark:text-gray-500">
         <svg
           className="w-3.5 h-3.5"
@@ -11,9 +11,9 @@ const Placeholder = () => {
         >
           <path
             stroke="currentColor"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="2"
             d="M9 1v16M1 9h16"
           />
         </svg>

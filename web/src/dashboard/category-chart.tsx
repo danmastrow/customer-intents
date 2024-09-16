@@ -86,7 +86,15 @@ const CategoryChart = ({ intents }: CategoryChartProps) => {
     },
   };
 
-  return <Chart options={options} series={series} type="bar" />;
+  return (
+    <Chart
+      height={350}
+      width="100%"
+      options={options}
+      series={series}
+      type="bar"
+    />
+  );
 };
 
 export default CategoryChart;
