@@ -6,8 +6,8 @@ import Placeholder from "./placeholder";
 
 const Dashboard = () => {
   const [customerIntents, setCustomerIntents] = useState<CustomerIntent[]>([]);
-  const [isLoading, setIsLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
+  const [_isLoading, setIsLoading] = useState(true);
+  const [_error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     setIsLoading(true);
@@ -23,7 +23,7 @@ const Dashboard = () => {
 
   return (
     <>
-      <div className="p-4 sm:ml-64">
+      <div className="p-4 md:ml-48">
         <div className="p-4 rounded-lg">
           <h1 className="text-3xl">Dashboard</h1>
           <h2 className="text-sm sm:text-md text-gray-500 mb-4">
@@ -34,7 +34,7 @@ const Dashboard = () => {
             data-driven decisions.
           </h2>
 
-          <div className="grid xl:grid-cols-2 grid-cols-1 gap-4 mb-4 ">
+          <div className="grid lg:grid-cols-2 grid-cols-1 gap-4 mb-4">
             <div className="border rounded-md hover:shadow-md transition-all">
               <CategoryChart intents={customerIntents} />
             </div>
@@ -43,17 +43,13 @@ const Dashboard = () => {
             </div>
           </div>
 
-          <div className="flex items-center justify-center h-48 mb-4 rounded bg-gray-50 dark:bg-gray-800">
+          <div className="h-48">
             <Placeholder />
           </div>
 
-          <div className="grid grid-cols-2 gap-4">
-            <div className="flex items-center justify-center rounded bg-gray-50 h-28 dark:bg-gray-800">
-              <Placeholder />
-            </div>
-            <div className="flex items-center justify-center rounded bg-gray-50 h-28 dark:bg-gray-800">
-              <Placeholder />
-            </div>
+          <div className="grid grid-cols-2 gap-4 mt-4">
+            <Placeholder />
+            <Placeholder />
           </div>
         </div>
       </div>
