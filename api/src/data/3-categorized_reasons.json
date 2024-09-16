@@ -1,0 +1,6447 @@
+[
+  {
+    "original_reason": "Initiate the provisioning of a brand-new phone or web-based connection",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Assess your monthly fee",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Solicit a temporary service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Investigate early termination charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Review your monthly rate",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Request a copy of former charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Acquire a facsimile of old receipts",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Demand a duplicate of former charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Review your monthly expense",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Upgrade or change your existing setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Gather intel on available promotional offerings",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Crack a technical code",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Solicit a brief service cessation",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about the possibility of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Delve into a technical issue",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Secure a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Discover the insights on data consumption and penalty fees",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Spark the inquiry into acquiring a modern phone or internet plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Delve into a technical snarl",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate coverage options in a new location",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Bring in a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Gather information on the early termination fee breakdown",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Accentuate a service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Divulge a challenge with web-based account access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inspect insurance options for a previously untapped area",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Diagnose a technical problem",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Reveal a burglarized or displaced gadget",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Advise about a challenge with web-based account access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Ignite the search for a novel phone or internet solution",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Petition for a momentary service cessation",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Study the requirements for porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Reveal a missing or embezzled digital product",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Report an erroneous charge",
+    "category": "Incorrect Billing",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Challenge the charge on the periodic bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Kick-start the activation of a previously unused handset or broadband plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Inquire about the early termination fee schedule",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Uncover particulars of a faulty billing entry",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Disclose a constraint with online account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Unleash international data roaming",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Question your monthly fee",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Notify of an incorrect charge",
+    "category": "Incorrect Billing",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Analyze the early termination fee policy",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Demand a copy of previous statements",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Activate a service breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Assess your monthly charge",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Protest the fee on the monthly bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Gather the research on data usage and excess fee details",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Delve into your monthly fee",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Examine the structure of data usage and additional fees",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Utilize a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Report details of a billing discrepancy",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Question your monthly bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Embark on the quest for a cutting-edge phone or internet plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about your monthly cost",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Procure the services of a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Escalate a service failure",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Contest the charge on the periodic bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Ignite international data roaming",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Demand service for broken apparatus",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Demand a copy of previous invoices",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Solve a technical mystery",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Implore a temporary service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Ache for a temporary service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Invigorate a service stoppage",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Gather information on the data utilization and surcharge",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Trigger the onboarding process for a brand-new handset or internet service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Impart a hurdle with virtual account entry",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Convey a misplaced or pilfered apparatus",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Procure a facsimile of previous receipts",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Kickstart international data usage",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Seek understanding of the early termination fee stipulations",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Intensify a service outage",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Mobilize international data usage",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about a transitory service discontinuation",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Gather data on the early termination fee structure",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Learn about the procedure for porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Initiate the quest for a cutting-edge phone or internet service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Request details about comprehensive promotional initiatives",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Investigate your monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Prompt global data access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Reveal a pilfered or mislaid apparatus",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Solicit a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Disclose a constraint with web-based account access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Probe data utilization and surcharge particulars",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Request clarification on the porting of a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Declare information about a billing issue",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Dive into the inquiry about data usage and overage fee information",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Launch a service failure",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Analyze the early termination fee policy",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Reject the charge on the periodic invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Examine insurance alternatives in an untested locale",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Commence the provisioning of a brand-new cellular or internet connection",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Obtain a reproduction of previous statements",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Locate a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inform about a limitation with virtual account access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Spark the inquiry into acquiring a modern phone or internet offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Appeal for a short-lived service discontinuation",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Entreat for correction of malfunctioning gear",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Uncover the early termination fee implications",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Uncover details on targeted promotional campaigns",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Investigate a technical glitch",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Refine or exchange your current plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Impart a hurdle with internet-based account entry",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Instigate the provisioning of a novel telephonic or internet account",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Notify about a purloined or vanished technology item",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Examine your monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Instigate the onboarding process for a novel telephonic or internet account",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Unleash global roaming potential",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Declare a service outage",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Commence the setup of a previously unused cellular or broadband connection",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Utilize a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Communicate a vanished or snatched electronic device",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Enlist a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Elevate or substitute your existing offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Start communicating a service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Obtain a replica of past billings",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Surface information about a billing anomaly",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Plead for repair of faulty machinery",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Gather data on the early termination fee structure",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Review your monthly expense",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Fathom a technical puzzle",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Explore your monthly cost",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Dive into the specifics of data consumption and excess charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Examine a technical glitch",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Initiate the process of obtaining a contemporary phone or internet plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Elevate a service outage",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Discover special offers",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Inspect your monthly invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Seek guidance on the porting of a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Hire a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire into the latest promotional deals",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Unleash cross-border data services",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Obtain a replica of past statements",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Commence the provisioning of a novel cellular or broadband connection",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Publicize a service failure",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Solicit a copy of past billings",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Enhance or modify your current subscription",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Investigate your monthly expense",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Advise about an obstruction with internet-based account access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Report a restriction with web-based account entry",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about the early termination fee structure",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Dispute the cost on the monthly bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Explore the early termination fee specifics",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Remark on a billing inaccuracy",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Assess insurance availability in an unexplored market",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Ignite worldwide data roaming",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about a momentary service discontinuation",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Bellow for rehabilitation of dysfunctional devices",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Declare a billing error",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate a technical breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Mobilize cross-border data services",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Burn for renovation of flawed instruments",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Gather intel on upcoming promotional offerings",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Research the steps to port a phone number",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Obtain a copy of former charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Delve into policy possibilities for a different geographic market",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Desire for restitution of defective equipment",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Commence the enablement of a previously inactive mobile or web-based service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Commence the configuration of a previously inactive mobile or web-based service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore available promotional options",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Entreat a temporary service cessation",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Analyze a technical conundrum",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Disclose an incorrect fee",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Seek details on the fees for ending the contract prematurely",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Look into promotional discounts",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Decline the cost on the periodic account",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Delve into a technical snarl",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Challenge the charge on the monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Notify about a stolen or missing device",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Call upon a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Look into information on data usage and extra charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Refine or shift your existing solution",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Trigger the investigation of a contemporary phone or internet plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Delve into your monthly bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Trigger the investigation of a contemporary phone or internet offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Implore for mending of faulty machinery",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inform of a vanished or filched electronic gadget",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Venture to get a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Retrieve a facsimile of old receipts",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Unearth a technical quirk",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Transmit a roadblock with digital account access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Resolve a technical dilemma",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Divulge a burglarized or displaced technological item",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Reveal a complication with online account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Refine or change your existing setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Instigate the enablement of a novel telephonic or internet account",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Divulge a stolen or displaced electronic device",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Appeal for a brief service halt",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Kick-start the onboarding process for a previously unused handset or broadband plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Ignite the search for a novel phone or internet offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Demand a copy of former charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Long for a momentary service cessation",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Seek understanding of the early termination fee framework",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Hunger for a temporary service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Locate the assistance of a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Uncover insurance prospects in an unfamiliar service zone",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Energize a service disruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Scream for mending of dysfunctional devices",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Kick-start the onboarding of a new telephonic or web-based service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Advance or substitute your current offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Investigate specialized promotional programs and offers",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Unpack a technical enigma",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Request a duplicate of past invoices",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Mobilize international data roaming",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Beseech a momentary service cessation",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Desire a temporary service halt",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Whimper for renovation of dysfunctional devices",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Decipher a technical enigma",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Activate the exploration of a new phone or internet solution",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Hunger for a brief service halt",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Elevate or adjust your current subscription",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Investigate the exploration of data consumption and overage figures",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Hunger for redress of dysfunctional devices",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Facilitate international data usage",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Procure a duplicate of old statements",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire about insurance offerings in an uncharted market",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Declare a filched or misplaced gadget",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Announce a setback with web-based account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore your monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Analyze insurance availability in an unfamiliar zone",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Beseech for mending of flawed instruments",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Spark the inquiry into acquiring a modern phone or internet plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Assess the viability of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Evaluate the option of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Probe the early termination fee details",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Upgrade or shift your existing solution",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Inform about a mislaid or burglarized digital product",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Elevate or modify your existing subscription",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Inspect policy alternatives in a novel service area",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Raise an issue with the expense on the periodic bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Uncover the data utilization and overage pricing",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about the data consumption and overage pricing",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Probe the details of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Lust for refurbishment of malfunctioning gear",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Oppose the expense on the periodic statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Unleash cross-border data potential",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Examine the process of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about personalized promotional opportunities",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Discover promotional opportunities",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Originate announcing a service breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inform about a problem with internet-based account login",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Unpack a technical quandary",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Seek out promotional discounts and deals",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Trigger global data services",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Lust for rectification of faulty machinery",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Obtain instructions on the porting of a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Trigger the onboarding process for a novel handset or broadband subscription",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Spark the inquiry into acquiring a modern phone or internet offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Uncover insurance possibilities in an uncharted territory",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Disclose a service disruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Dispute the charge on the periodic invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire about the early termination fee schedule",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Shout for redress of impaired tools",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Implore a transient service suspension",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Uncover insurance availability in a previously untapped area",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Withdraw the services of a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Explore the early termination fee details",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Ignite the search for a novel phone or internet plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Analyze the dive into data utilization and surcharge breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Ignite the search for a novel phone or internet package",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Kick-start a novel phone or web-based service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Investigate the early termination fee terms",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Moan for rectification of impaired tools",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Impart a hurdle with digital account access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore a variety of promotional options and deals",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Kick-start the provisioning of a previously unused handset or broadband plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Optimize or modify your present subscription",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Record information about a billing irregularity",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Thirst for a momentary service cessation",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Optimize or replace your current setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Procure a duplicate of old charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Convey a stolen or snatched digital product",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Decipher a technical riddle",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Introduce a service malfunction",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Beg for a momentary service cessation",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Reject the fee on the monthly account",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Delve into a technical snarl",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Scrutinize your monthly dues",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about a temporary service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Look into your monthly invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Oppose the fee on the monthly bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Pinpoint a technical malfunction",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inspect your monthly charge",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Prompt cross-border data usage",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Refine or replace your present arrangement",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Disclose a mislaid or burglarized technology item",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Crack a technical code",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Yen for recuperation of faulty machinery",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inspect a technical challenge",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Seek a momentary service cessation",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Ache for restitution of impaired tools",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Examine a technical glitch",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Instigate a brand-new telephonic or online service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Obtain the services of a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Communicate a blockage with virtual account access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Trigger overseas data access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Kickstart the journey towards a new phone or internet package",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Fetch a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Delve into policy availability in an untested territory",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Analyze coverage choices for a different geographic domain",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Convey a difficulty with internet-based account access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Reveal a service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate the feasibility of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Solve a technical mystery",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inspect insurance prospects for a different geographic zone",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Unveil details of a problematic charge",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Trigger global data connectivity",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Uncover policy choices in an uncharted region",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Request information on the early termination fee policy",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Disagree with the expense on the periodic bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Scrutinize the data usage and additional fee data",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Convey a difficulty with web-based account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Request information about early termination penalty fees",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Prompt international data potential",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Gather information on policies for a new service region",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Book a technician visit for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Analyze your monthly charge",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Rant for restitution of faulty apparatus",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Seek clarity on the early termination fee terms",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Delve into a technical issue",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Probe a technical problem",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Analyze your monthly fee",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Advance or replace your existing arrangement",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Demand a replica of old billings",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Delve into your monthly charge",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Investigate a technical breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Seek a transient service suspension",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Trigger the initialization of a previously unused handset or internet account",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Reject the cost on the monthly account",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire into promotional incentives",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Explore promotional opportunities",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Uncover the scrutiny of data utilization and excess fee data",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Delve into the early termination fee policies",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Ignite international data connectivity",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Rant for servicing of faulty machinery",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Relate a barrier with web-based account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Request information on the early termination fee components",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Point out specifics of a billing anomaly",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Refine or transition your existing package",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Obtain a duplicate of past invoices",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Kick-start the configuration of a novel handset or broadband plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Fetch a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Decline the cost on the periodic statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Showcase a service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Trigger a service outage",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Establish a fresh cellular or broadband connection",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Whine for revitalization of faulty machinery",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Reveal a missing or stolen digital product",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Gain insight into porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Untangle a technical snarl",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Hire a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inspect the examination of data consumption and excess charge structure",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Investigate the early termination fee terms",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Announce a service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Identify details of a faulty billing transaction",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Question your monthly bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Beg for servicing of impaired tools",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Impart a hurdle with online account access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Procure a copy of former charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Ignite overseas data connectivity",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Initiate the quest for a cutting-edge phone or internet plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Whimper for restoration of faulty apparatus",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Dispute the charge on the monthly account",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore the early termination fee details",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Dissect a technical malfunction",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Dissect a technical malfunction",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Plead for a brief service halt",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Advance or transition your existing package",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Unveil a service disruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Crave for reclamation of defective equipment",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Acquire knowledge about the porting of a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Assess the viability of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Begin notifying of a service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Optimize or transition your existing package",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Beseech a fleeting service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Trigger the setup of a brand-new cellular or online subscription",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Commence the procedure of requesting a novel phone or internet arrangement",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Advance or substitute your current offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Unpack a technical enigma",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Covet for revitalization of malfunctioning gear",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Analyze your monthly bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Activate the exploration of a new phone or internet plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Desire a momentary service cessation",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Summon a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Look into coverage opportunities in an untapped territory",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Communicate a billing inaccuracy",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Gather data on the financial implications of early contract termination",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Solicit a replica of past billings",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Research coverage possibilities in a novel geographic region",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Announce a setback with virtual account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Discover the policies regarding porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Procure a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Request information on the early termination fee fine print",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Question your monthly charge",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Initiate the quest for a cutting-edge phone or internet offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Dispute the expense on the monthly invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Instigate the activation of a novel telephonic or internet account",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Motivate a service malfunction",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Incite a service failure",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Thirst for a fleeting service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Share information about details of a billing issue",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Acquire knowledge about the porting of a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Lodge a complaint about a billing issue",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Trigger the setup of a novel handset or internet plan",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Spark the inquiry into acquiring a modern phone or internet solution",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Uncover the information on porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Investigate the early termination fee framework",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate promotional campaigns",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Probe the details of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inspect the early termination fee stipulations",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Rave for repair of impaired tools",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Stress a service failure",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Transmit a stumbling block with virtual account entry",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Decline the expense on the periodic bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Improve or replace your existing arrangement",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore policy alternatives in a novel service region",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Discover insurance choices in an unexplored locale",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore information on data usage and additional fees",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Request clarification on the early termination fee policy",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Improve or exchange your present plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Obtain details about promotional programs",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Invite a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inspect the data consumption and penalty fee details",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Make known a billing discrepancy",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Prompt a service disruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Grumble for mending of defective equipment",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Assess insurance choices in an unexplored service region",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Entreat a short-lived service discontinuation",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Launch declaring a service failure",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Examine the look into data utilization and surcharge data",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Reveal a purloined or vanished electronic device",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Scrutinize the details of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Initiate the quest for a cutting-edge phone or internet service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Improve or shift your current solution",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Spark the inquiry into acquiring a modern phone or internet package",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Report a restriction with virtual account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Retrieve a copy of former charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Protest the charge on the monthly invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Upgrade or shift your present solution",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Disclose a stolen or displaced electronic device",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate a technical breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Optimize or change your present plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Declare a hindrance with online account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Scream for recuperation of defective equipment",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Solicit a facsimile of old receipts",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Obtain a facsimile of old receipts",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Covet a temporary service discontinuation",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore the details of early contract cancellation fees",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Growl for servicing of faulty apparatus",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Enhance or shift your present solution",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Seek understanding of the early termination fee terms",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Look into your monthly rate",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Gather intel on promotional offerings",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Retrieve a replica of old billings",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Obtain information on promotional programs",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Instigate worldwide data usage",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Refine or substitute your present offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Protest the expense on the periodic statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Probe a technical problem",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Uncover the information on porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Initiate the quest for a cutting-edge phone or internet package",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inform about specifics of a billing inaccuracy",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Identify a technical anomaly",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Initiate the onboarding process for a new phone or internet service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Convey a pilfered or mislaid technology item",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Stimulate a service failure",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Solicit a reproduction of previous statements",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Protest the expense on the monthly account",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Examine your monthly cost",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Hire the expertise of a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Scrutinize the information on data usage and extra costs",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Delve into policy offerings for a different geographic domain",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Identify a technical snag",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Explore a technical snag",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire about the regulations around porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Procure a copy of old invoices",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Commence reporting a service outage",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Raise awareness of details of a billing problem",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Discover the analysis of data consumption and overage pricing",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Report a displaced or purloined apparatus",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Solicit a reproduction of former receipts",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Investigate coverage offerings in a previously untapped locale",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Scrutinize insurance prospects in a novel setting",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Uncover the facts about data utilization and overage charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Dissect the early termination fee components",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Dig into a technical snag",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Commence the discovery of a fresh phone or internet package",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Analyze the data usage and overage cost information",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Invoke global data access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore a technical snag",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Activate the exploration of a new phone or internet solution",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Improve or change your present setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Seek clarity on the early termination fee framework",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Engage worldwide data connectivity",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Dissect a technical malfunction",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Solicit a facsimile of former charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Heighten a service breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Long for a temporary service discontinuation",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Advance or change your present setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Petition for a temporary service pause",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Initiate the pursuit of a novel phone or internet service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Oppose the cost on the periodic invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Encourage a service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Delve into the logistics of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Seek a replica of old billings",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Seek a duplicate of previous receipts",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Supplicate for rectification of faulty apparatus",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Demand a technician come for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Secure a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Advance or alter your current offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Hunger for a temporary service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Disclose details of a billing problem",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Implore a momentary service cessation",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Communicate a vanished or embezzled digital product",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Demand a facsimile of previous receipts",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Uncover details on promotional campaigns",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Optimize or exchange your existing plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Disclose a missing or pilfered gadget",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Approach a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Oppose the cost on the periodic account",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Supply details about a billing mistake",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Advise about an obstruction with digital account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Dispute the fee on the monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Uncover facts regarding data usage and surcharge fees",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Analyze the early termination fee fine print",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Call attention to a billing error",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Uncover the specifics of the early termination fee structure",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Refute the charge on the monthly bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Facilitate global data services",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Argue against the cost on the periodic bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Seek information on porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Refine or replace your existing subscription",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Improve or substitute your existing offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Elevate or exchange your current plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Initiate the quest for a cutting-edge phone or internet offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Retrieve a reproduction of prior charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Commence the onboarding process for a novel mobile or broadband service",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Undertake the services of a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Unleash international data potential",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Instigate the configuration of a novel telephonic or broadband account",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Investigate policy options for a different service area",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Investigate the technicalities of porting a phone number",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Request details on porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Expose a service outage",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Invoke overseas data access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Understand the process of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Advance or shift your present solution",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Reveal a displaced or embezzled technological item",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Surface a billing irregularity",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Wish for a brief service halt",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Assess insurance offerings in an unexplored service area",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Raise an issue with the charge on the periodic invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Declare a missing or embezzled digital product",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Oppose the charge on the periodic account",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Investigate data consumption and excess charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Request a transient service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Identify a technical anomaly",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Provoke a service breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Optimize or substitute your current offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Report a billing discrepancy",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate the early termination fee framework",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Assess your monthly charge",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Trigger the activation of a previously inactive cellular or online subscription",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Analyze the early termination fee components",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Report a snatched or misplaced gadget",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Declare a vanished or pilfered technological item",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Declare a mislaid or filched apparatus",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Instigate international data roaming",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Stimulate international data connectivity",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Advance or modify your current subscription",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Inform of a mistaken billing amount",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Request the presence of a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate promotional discounts and offers",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Disagree with the fee on the periodic statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Argue against the fee on the monthly invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Instigate the enablement of a brand-new phone or web-based service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Retrieve a copy of previous receipts",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Optimize or change your existing setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire about the data on data utilization and overage pricing",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Initiate the configuration of a brand-new phone or internet service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Procure a facsimile of old receipts",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Oppose the cost on the monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Indicate a billing irregularity",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Decipher a technical riddle",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Initiate the quest for a cutting-edge phone or internet package",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore the option of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Wish for recuperation of impaired tools",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Rave for reclamation of malfunctioning gear",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Kick-start the activation of a previously inactive telephonic or online plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Activate worldwide data services",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Upgrade or transition your current package",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Investigate the early termination fee stipulations",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Communicate about an incorrect charge",
+    "category": "Incorrect Billing",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Enhance or replace your current arrangement",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Divulge a faulty billing transaction",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Gather details on the porting of a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Announce a pilfered or displaced apparatus",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Upgrade or substitute your present solution",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Trigger international data plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Transmit a roadblock with online account access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Refute the fee on the monthly bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Reveal a billing error",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Initiate the quest for a cutting-edge phone or internet solution",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Communicate a difficulty with virtual account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Display a service breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Seek information about policy availability in a novel market",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Investigate the specifics of data usage and excess fees",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Plead for a short-lived service discontinuation",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Analyze coverage potential in an unfamiliar service region",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Trigger the investigation of a contemporary phone or internet offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Uncover a technical quirk",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Analyze the early termination fee fine print",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Communicate a blockage with internet-based account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Communicate a misplaced or pilfered technological device",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Seek out insurance alternatives in an untested area",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Plead for a temporary service halt",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Demand a reproduction of previous statements",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Wish for a short-lived service discontinuation",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Elevate or change your current setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Request a reproduction of old statements",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Divulge a challenge with virtual account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Report a burglarized or displaced technology item",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Look into your monthly invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Evolve or change your current setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Optimize or replace your current arrangement",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Request a replica of old billings",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire about a temporary service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Obtain information on limited-time promotional offers",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Solicit maintenance for dysfunctional tools",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Probe a technical problem",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Galvanize a service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Retrieve a reproduction of previous statements",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Gather details on policy offerings in an unexplored territory",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Examine data consumption and overage expense data",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Stimulate worldwide data usage",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Relate a barrier with digital account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore the data usage and excess fee structure",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Enhance or substitute your current offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Investigate your monthly invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Commence a service disruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire about your monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Decline the charge on the periodic statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Desire a fleeting service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Ache for a transient service suspension",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Withdraw a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Activate international data services",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Dig into a technical snag",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Discover insights on data usage and penalty charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Request information on the early termination fee policy",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Acquire a replica of former statements",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Initiate informing about a service disruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Reveal a complication with web-based account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Facilitate international data connectivity",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Howl for restitution of impaired tools",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Examine insurance solutions in an untested territory",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Reject the charge on the monthly invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Seek assistance for malfunctioning gear",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Acquire a copy of prior statements",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Enhance or exchange your existing plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Ferret out a technical hitch",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Study the requirements for porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Communicate a blockage with digital account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Instigate the enablement of a previously inactive mobile or online plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Engage the expertise of a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Locate a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Uncover the early termination fee details",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Yearn for a short-lived service discontinuation",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Ferret out a technical hitch",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Trigger the investigation of a contemporary phone or internet plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Research the data consumption and overage cost data",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Examine the data usage and excess charge breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Whine for rehabilitation of malfunctioning gear",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Scrutinize your monthly cost",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Enhance or exchange your current arrangement",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Bring about a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inspect your monthly expense",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore a technical snag",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Introduce publicizing a service malfunction",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Explore policy options for a previously untapped market",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Reveal a snag with digital account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Reveal a complication with virtual account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Beseech a temporary service discontinuation",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Protest the fee on the monthly account",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Report a burglarized or vanished electronic device",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Procure a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Report a vanished or purloined electronic device",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Analyze the process of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Request information on the early termination fee fine print",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Refute the fee on the monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Discover special promotional campaigns",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Revise or transform your existing arrangement",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Acquire a facsimile of former bills",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Indicate particulars of a billing discrepancy",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Commence a fresh cellular or internet service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about a technical hiccup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Advise about an obstruction with online account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Stimulate international data services",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Upgrade or exchange your existing plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Emphasize a service disruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Unravel a technical conundrum",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Commence the setup of a previously inactive mobile or web-based service",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Advise of a mistaken charge",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Fortify a service breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Seek a duplicate of past invoices",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Declare a hindrance with virtual account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Relate a barrier with online account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Facilitate worldwide data usage",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Disclose a pilfered or misplaced technological item",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Undertake to get a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Instigate the setup of a previously unused telephonic or internet account",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Announce a stolen or displaced gadget",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Refine or transition your current package",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Dive into the early termination fee particulars",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Delve into a technical issue",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Remark on particulars of a billing inaccuracy",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Solicit the expertise of a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire about the possibility of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Appeal for a temporary service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Activate cross-border data roaming",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Challenge the fee on the periodic invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Communicate a purloined or vanished technological item",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Research data consumption and overage cost figures",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Commence the discovery of a fresh phone or internet service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Petition for restoration of faulty devices",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Expose facts about a billing irregularity",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Seek information on acquiring a novel phone or internet service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Announce a setback with digital account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Divulge a missing or embezzled digital product",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Crave a temporary service cessation",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Understand the requirements for porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about your monthly dues",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Understand the process of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Request clarification on the porting of a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Seek information on promotions",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Holler for refurbishment of faulty machinery",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Learn the steps involved in porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Yearn for a temporary service suspension",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Request a duplicate of old receipts",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Announce a roadblock with internet-based account access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Supplicate for revitalization of flawed instruments",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Aspire for redress of faulty machinery",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Notify about a misplaced or pilfered device",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Disclose a displaced or burglarized technology item",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Look into the data usage and additional fee structure",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire about fixing defective equipment",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Uncover the early termination fee specifics",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Trigger the onboarding process for a brand-new cellular or online subscription",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Seek understanding of the early termination fee framework",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Scrutinize a technical complication",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Enhance or modify your current plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Elevate or transition your present package",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Evolve or substitute your existing offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Inquire about promotional opportunities",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Demand the presence of a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Gather intel on comprehensive promotional programs",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Announce a billing discrepancy",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire into seasonal promotional offerings",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Get a technician to come for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Acquire a replica of former invoices",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Upgrade or substitute your present offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Argue against the charge on the monthly invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Optimize or shift your present solution",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Scrutinize your monthly cost",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Reject the cost on the monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Withdraw a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Initiate the setup of a previously unused mobile or web-based service",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Report a restriction with online account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Request a reproduction of old bills",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inspect policy choices for a novel geographic area",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Hanker for rehabilitation of flawed instruments",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Evaluate the option of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Make known details of a billing mistake",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Convey a difficulty with online account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Commence the discovery of a fresh phone or internet plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Challenge the expense on the monthly account",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Appeal for a technician visit for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Request information on the early termination fee components",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Initiate the onboarding process for a brand-new phone or broadband connection",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Dispute the cost on the monthly bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Gather data on the early termination fee schedule",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Research the analysis of data utilization and penalty costs",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Look into your monthly rate",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Announce a stolen or vanished electronic device",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Demand a fleeting service halt",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Examine the requirements for porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore the early termination fee implications",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Implore a temporary service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Raise a service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Require a technician visit for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Discover the steps to port a phone number",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Ignite the search for a novel phone or internet offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Ask about transferring a phone number",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Augment a service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Recruit a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Raise an issue with the cost on the periodic statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire about the early termination fee breakdown",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Divulge a misplaced or pilfered gadget",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Spotlight a service malfunction",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Fathom a technical puzzle",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Solve a technical dilemma",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate the process of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Initiate the configuration of a brand-new phone or broadband connection",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Itch for rehabilitation of faulty apparatus",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Speak up about particulars of a billing mistake",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Trigger the investigation of a contemporary phone or internet package",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Get in touch with a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Look into your monthly expense",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Commence the discovery of a fresh phone or internet solution",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about a technical hiccup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Growl for recuperation of faulty machinery",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Gather details on promotional offers",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Analyze your monthly payment",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Procure a duplicate of past invoices",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Question the procedures involved in porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Dig into a technical snag",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Convey a stolen or mislaid gadget",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Explore your monthly dues",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Activate the exploration of a new phone or internet package",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Decline the fee on the periodic invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire into current promotional initiatives",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Inspect your monthly rate",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Underscore a service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Demand a transient service suspension",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Evolve or transition your present package",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Acquire a copy of former charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inform about a service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Declare a hindrance with web-based account entry",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Investigate insurance solutions for an untested locale",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Uncover the early termination fee details",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Entreat a temporary service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inform about an erroneous charge",
+    "category": "Incorrect Billing",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Disclose an obstacle with digital account entry",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Uncover the early termination fee specifics",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Impart a hurdle with web-based account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Yearn for reclamation of faulty apparatus",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Beg for a transient service suspension",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore the early termination fee specifics",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Gather details on the porting of a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Scrutinize a technical complication",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Reject the charge on the monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate the feasibility of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Discover promotional discounts and savings",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Shout for rectification of flawed instruments",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about the early termination fee schedule",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Discover the data consumption and surcharge specifics",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Upgrade or modify your present subscription",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Initiate a new mobile or broadband connection",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Holler for revitalization of malfunctioning gear",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Commence the exploration of a fresh phone or internet option",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Challenge the cost on the periodic invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Uncover details on promotional deals",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Venture to employ a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Recruit the expertise of a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Solicit a replica of old billings",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate coverage potential in a novel service region",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Trigger the enablement of a brand-new cellular or online subscription",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Dispute the fee on the monthly invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Convey a difficulty with digital account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Investigate the data usage and surcharge breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Explore options for a new mobile or broadband plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Bring a new phone or internet service into operation",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Covet for refurbishment of dysfunctional devices",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Argue against the expense on the monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Seek guidance on the porting of a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inform of a displaced or snatched technology item",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Commence the discovery of a fresh phone or internet service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Resolve a technical complication",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Mend a technical breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Trigger the investigation of a contemporary phone or internet solution",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about the possibility of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Analyze the process of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Investigate the possibility of upgrading your current phone or internet subscription",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Highlight a service outage",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Insist on a technician visit for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Discover the policies regarding porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Assess your monthly fee",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Trigger overseas data roaming",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Discover tailored promotional discounts and savings",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Yen for repair of faulty apparatus",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Disagree with the cost on the periodic invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Commence the activation of a new mobile or internet account",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Initiate the enablement of a brand-new phone or broadband connection",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Activate a previously unused phone or internet subscription",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Divulge a stolen or displaced apparatus",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Research insurance solutions for a different geographic area",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Request a facsimile of past invoices",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Wish for refurbishment of dysfunctional devices",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Commence the setup of a novel mobile or online service",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Fetch the services of a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Order a technician visit for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Notify of a misplaced or swiped device",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Recruit a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Transmit a roadblock with web-based account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Enhance or replace your current arrangement",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Investigate promotional specials",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Resolve a technical dilemma",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Invoke international data roaming",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Solicit a temporary service discontinuation",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore insurance solutions for an unfamiliar location",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Beg for a fleeting service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inspect the feasibility of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Wish for a temporary service cessation",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Uncover the early termination fee specifics",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Supply details about specifics of a billing irregularity",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Evolve or modify your existing subscription",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Initiate the configuration of a novel mobile or internet account",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Obtain a duplicate of previous invoices",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Review your monthly invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inspire a service outage",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Procure a reproduction of previous statements",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Disclose a constraint with internet-based account entry",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Moan for refurbishment of flawed instruments",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Get hold of a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Implore for servicing of impaired equipment",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Question the procedures involved in porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Amplify a service breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Submit a report containing details of a billing problem",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Raise an issue with the fee on the periodic invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Ferret out a technical hitch",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Covet a short-lived service discontinuation",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Crave for remediation of defective equipment",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Demand a temporary service suspension",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Acquire a duplicate of past invoices",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Instigate global data access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Hanker for renovation of faulty apparatus",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Trigger the provisioning of a brand-new cellular or online subscription",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Trigger the investigation of a contemporary phone or internet solution",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Gather data on the early termination fee schedule",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Analyze data consumption and overage pricing",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Instigate the activation of a brand-new phone or internet plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Reject the expense on the monthly invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Request information on promotional specials",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Ignite the search for a novel phone or internet service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Advance or exchange your present plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Analyze your monthly fee",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Undertake a technician visit for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Fathom a technical puzzle",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Engage global data connectivity",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Decline the charge on the monthly account",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Covet a brief service halt",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Scrutinize coverage possibilities in a novel geographic region",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Initiate a service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Share information about a billing problem",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Instigate the search for a modern phone or internet plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Seek out the latest promotional discounts and incentives",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Spark the inquiry into acquiring a modern phone or internet service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Raise an issue with the cost on the periodic bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Report a billing irregularity",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inform about a missing or stolen gadget",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Originate a service breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Notify about a billing discrepancy",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Announce a lost or taken digital product",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Ache for a fleeting service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Crave a brief service halt",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Investigate coverage alternatives in an uncharted locale",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Examine your monthly dues",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Ache for restoration of malfunctioning gear",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Uncover details on promotional incentives",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Declare a complication with electronic account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Petition for a short-lived service suspension",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Expose a problematic charge",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Scrutinize the early termination fee terms and conditions",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Notify about particulars of an incorrect charge",
+    "category": "Incorrect Billing",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Uncover a technical quirk",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Desire for rehabilitation of faulty machinery",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Relate a barrier with virtual account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Itch for revitalization of dysfunctional devices",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Request a facsimile of old receipts",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about exclusive promotional opportunities",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Initiate the activation of a brand-new phone or broadband connection",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Examine the early termination fee fine print",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Assess insurance potential in a new geographical space",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Boost a service disruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Demand a fleeting service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Demand the services of a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire about current promotional initiatives",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Learn the steps involved in porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Examine coverage options in an unfamiliar market",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Ignite the search for a novel phone or internet service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Seek a temporary service suspension",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Plead for a transitory service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Yearn for restoration of impaired tools",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Facilitate cross-border data connectivity",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inspect policy solutions in an unfamiliar market",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Request details about promotional offers",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Retrieve a duplicate of old invoices",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire about your monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Decipher a technical riddle",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate your monthly invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Stimulate global data access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Disagree with the charge on the periodic statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Raise an issue with the fee on the monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Uncover insurance choices for a different geographic market",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inform about a pilfered or vanished electronic gadget",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Convey a hindrance with internet account accessibility",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Evaluate the option of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Refute the charge on the monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate the early termination fee structure",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Uncover the early termination fee implications",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Thirst for mending of impaired tools",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Insist on the presence of a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Communicate a filched or mislaid apparatus",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Procure a replica of old billings",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Divulge a challenge with digital account access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Seek a facsimile of old receipts",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inform about a limitation with web-based account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Unravel a technical mystery",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Gather data on data usage and penalty fee amounts",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Unveil a problematic charge",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Disagree with the fee on the periodic bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Reach out to learn about acquiring a new phone or internet offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Notify of a service disruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Mobilize global connectivity",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Delve into details about data utilization and overage costs",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Look into the information regarding data consumption and surcharge",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Scrutinize the early termination fee breakdown",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Acquire the assistance of a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Assess your monthly bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Spur a service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Examine your monthly dues",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Solicit a copy of former charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Retrieve a copy of previous billings",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Gather data on the early termination fee breakdown",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate the technicalities of porting a phone number",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Invoke cross-border data services",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Commence the discovery of a fresh phone or internet solution",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Scrutinize data usage and extra fee information",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inspect a technical challenge",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Scrutinize the inspection of data usage and additional fee details",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Report a concern regarding online account accessibility",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Protest the charge on the monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Speak up about a billing inaccuracy",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Divulge particulars of a billing mistake",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Secure the assistance of a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Announce a displaced or embezzled gadget",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate your monthly rate",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Elevate or replace your present arrangement",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Broadcast a service breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Start a service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Transmit a roadblock with internet-based account entry",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Engage a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Improve or switch your present plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Look into insurance coverage in an emerging market",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore the early termination fee implications",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Crave for renovation of malfunctioning gear",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Improve or modify your current setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Dig into the specifics of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Hunger for servicing of defective equipment",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Divulge a lost or snatched electronic item",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire about a fresh phone or internet package",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inspect a technical challenge",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Analyze a technical conundrum",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Refute the expense on the monthly account",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Unravel a technical quandary",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Communicate a blockage with online account access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Examine your monthly cost",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Gather details about porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Notify of a mislaid or snatched digital product",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Initiate the quest for a cutting-edge phone or internet solution",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Optimize or transition your current package",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Commence overseas roaming",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Expand a service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Scrutinize coverage offerings in an unfamiliar service zone",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Trigger the investigation of a contemporary phone or internet package",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Enhance a service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Analyze policy availability in a previously unserved area",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Activate the exploration of a new phone or internet service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Acquire knowledge on the porting of a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Engage international data potential",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Record a faulty billing occurrence",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Seek a facsimile of past invoices",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Obtain information on limited-edition promotional items",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Decline the expense on the periodic bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire into the costs associated with early contract termination",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Unravel a technical quandary",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Elevate or transition your existing package",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about the early termination fee structure",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Review your monthly rate",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Report a restriction with internet-based account entry",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Initiate worldwide connectivity",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inform about a limitation with internet-based account entry",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Seek a reproduction of previous statements",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Evolve or exchange your existing plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Explore the guidelines for porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Crack a technical code",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Disagree with the expense on the periodic bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Discover insurance alternatives in a new geographical domain",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Point out a billing anomaly",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Obtain a technician for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire into moving a phone number",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Evolve or shift your current solution",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire into coverage opportunities in an untapped area",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Prompt international roaming access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Enhance or change your present setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Appeal for a temporary service suspension",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Declare a hindrance with digital account access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Refute the cost on the periodic statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Stimulate overseas data services",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Divulge a setback with online account entry",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Convey a lost or taken technological item",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inspect your monthly expense",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Announce a burglarized or misplaced technology item",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Yearn for a temporary service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Declare a stolen or misplaced electronic device",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Activate international data capabilities",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Call in a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Notify about an issue with digital account access",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Uncover a technical anomaly",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Explore promotional campaigns",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Reveal a complication with internet-based account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore a range of promotional options",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Acquire a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Trigger the investigation of a contemporary phone or internet service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Analyze the fine print regarding early contract termination fees",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Disagree with the fee on the monthly bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate the early termination fee stipulations",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Unlock international data access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Scrutinize a technical complication",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Scrutinize your monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Ignite global data connectivity",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Report a service failure",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Refine or modify your present subscription",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Trigger the configuration of a brand-new cellular or online subscription",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Oppose the expense on the periodic bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Elevate or substitute your present offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Raise an issue with the expense on the periodic statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Request details about current promotional specials",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Seek a reproduction of old statements",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Solicit a duplicate of past invoices",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Explore the details of data usage and surcharge pricing",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Identify a flawed billing item",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Seek out promotional discounts",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Seek out information on promotional incentives",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Burn for restoration of defective equipment",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Request a technician visit for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inflate a service disruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate special promotional programs",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Engage cross-border roaming",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Advance or shift your current solution",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Roar for restoration of flawed instruments",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore policy prospects in an uncharted territory",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Question your monthly charge",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Raise awareness of a billing mistake",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Divulge a challenge with internet-based account entry",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Long for a transient service suspension",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Howl for repair of malfunctioning gear",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Elevate or shift your existing solution",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore the discovery of data usage and surcharge specifics",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Magnify a service malfunction",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Improve or modify your current subscription",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Communicate a service breakdown",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Disclose a constraint with digital account usage",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Thirst for reclamation of flawed instruments",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Aspire for rejuvenation of flawed instruments",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Ignite the search for a novel phone or internet plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Seek clarity on the early termination fee stipulations",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Delve into your monthly invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Spark the inquiry into acquiring a modern phone or internet service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Communicate a blockage with web-based account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Activate the exploration of a new phone or internet package",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Argue against the charge on the monthly account",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Improve or change your current setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Convey a missing or filched electronic device",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Commence the discovery of a fresh phone or internet plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about your monthly dues",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Analyze the data on data usage and overage fee amounts",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inform about a limitation with digital account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inspect data usage and additional cost details",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Enhance or transition your existing package",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Evolve or exchange your present plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Assess the viability of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Look into the possibility of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Improve or transition your present package",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Reinforce a service malfunction",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Examine a technical glitch",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inspect the breakdown of data utilization and surcharge",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Demand a facsimile of former charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Announce a setback with online account login",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Bellow for renovation of faulty apparatus",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Instigate overseas data roaming",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about promotional incentives",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Obtain instructions on the porting of a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Report an incorrect billing entry",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Explore insurance possibilities in an unfamiliar region",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Communicate a mislaid or filched gadget",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Mobilize cross-border data roaming",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Empower a service outage",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Dig into the specifics of porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Engage international data access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Seek a copy of former charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Plead for repair of defective equipment",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Notify of a burglarized or vanished electronic device",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Challenge the fee on the periodic statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Dive into data usage and excess fee specifics",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Highlight a billing mishap",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Demand a duplicate of past invoices",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Explore your monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Analyze a technical conundrum",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Exhibit a service failure",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Rectify a technical hiccup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Commence the discovery of a fresh phone or internet package",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Acquire a replica of old billings",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Strengthen a service failure",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Explore the guidelines for porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Enable global roaming",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Ignite the search for a novel phone or internet package",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Crave a temporary service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Argue against the fee on the monthly account",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Upgrade or replace your current arrangement",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Advise of a service malfunction",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Kick-start the setup of a previously unused handset or broadband plan",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Obtain a reproduction of old receipts",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Research the steps to port a phone number",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Report a mislaid or filched digital product",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Beseech a transient service suspension",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore the early termination fee implications",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Spark the inquiry into acquiring a modern phone or internet solution",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Delve into coverage prospects in an untested locale",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Crave a temporary service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Activate the exploration of a new phone or internet offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Entreat a brief service halt",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inform of a stolen or displaced gadget",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Investigate available promotions",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Protest the cost on the monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Declare a lost or stolen digital product",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Refine or modify your existing subscription",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Submit a report on a billing issue",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Beg for a temporary service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Utilize the expertise of a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Thirst for a temporary service halt",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Increase a service malfunction",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Relate a barrier with internet-based account entry",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Scrutinize your monthly bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Argue against the cost on the monthly statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Tackle a technical challenge",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Request details about ongoing promotional initiatives",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Explore policy availability in an unfamiliar service zone",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Disclose a snatched or mislaid digital product",
+    "category": "Device Issues",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Venture a technician for installation",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Analyze the early termination fee components",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Call for a technician visit for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Divulge a service malfunction",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Dive into the data utilization and surcharge figures",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Entreat for rectification of dysfunctional devices",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Uncover a service stoppage",
+    "category": "Service Cessation",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Commence the discovery of a fresh phone or internet offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Reveal specifics of a billing error",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Evolve or replace your present arrangement",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Uncover a faulty billing entry",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Petition for a fleeting service interruption",
+    "category": "Service Disruption",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Examine the requirements for porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Evolve or shift your existing plan",
+    "category": "Service Change",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Obtain information regarding porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about the gathering of data consumption and excess fee research",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire about the early termination fee breakdown",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Refute the expense on the monthly invoice",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Request a duplicate of old billings",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Lodge a report on a billing irregularity",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Kick-start the activation of a novel telephonic or web-based subscription",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Seek a reproduction of past billings",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Analyze coverage solutions in an untested geographic domain",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Challenge the expense on the periodic statement",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Scrutinize coverage prospects in a previously untapped area",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Activate worldwide data roaming",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Delve into your monthly bill",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire about the regulations around porting a phone number",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Advise about an obstruction with virtual account access",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Activate the exploration of a new phone or internet offering",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Kick-start the enablement of a brand-new handset or internet plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Explore your monthly billing details",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Acquire a reproduction of previous statements",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Obtain a facsimile of past charges",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Inquire about data usage and overage fee details",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Roar for reclamation of defective equipment",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Solicit a brief service halt",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Examine insurance prospects in an uncharted territory",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Commence the activation of a previously inactive mobile or web-based service",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Prompt worldwide data roaming",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Invoke worldwide data usage",
+    "category": "Data Usage",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Uncover promotional deals",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Examine insurance coverage in an unexplored territory",
+    "category": "Insurance",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Inquire about a technical hiccup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Instigate a service malfunction",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Highlight specifics of a billing anomaly",
+    "category": "Billing",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Arrange a technician appointment for setup",
+    "category": "Technical Support",
+    "sentiment": "Negative"
+  },
+  {
+    "original_reason": "Obtain information on promotional programs and initiatives",
+    "category": "Promotions",
+    "sentiment": "Positive"
+  },
+  {
+    "original_reason": "Instigate global roaming capabilities",
+    "category": "Other",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Activate the process of securing a new phone or internet plan",
+    "category": "Account Management",
+    "sentiment": "Neutral"
+  },
+  {
+    "original_reason": "Grumble for redress of dysfunctional devices",
+    "category": "Device Issues",
+    "sentiment": "Negative"
+  }
+]

@@ -1,0 +1,8 @@
+Given this raw data of a note given to describe the reason for a call into a call center
+
+Group into categories, etc Billing, Service Disruption 
+Assign an attribute, positive, negative, netural to the reason
+Assign a percentage in how accurate you think the rating is
+
+Create a json file with that data, and the original caller intent
+There should be 1289 objects in the returned json array
