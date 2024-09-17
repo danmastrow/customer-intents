@@ -40,6 +40,12 @@ export class WebStack extends cdk.Stack {
             defaultRootObject: 'index.html',  // Set index.html as default for root URLs
             errorResponses: [
                 {
+                    httpStatus: 403,  // Handle 403 errors as well
+                    responseHttpStatus: 200,
+                    responsePagePath: '/index.html', // Serve index.html on 403
+                    ttl: cdk.Duration.seconds(0),   // Disable caching for 403s
+                },
+                {
                     httpStatus: 404,
                     responseHttpStatus: 200,
                     responsePagePath: '/index.html', // Serve index.html on 404 for SPA
