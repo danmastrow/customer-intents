@@ -19,12 +19,12 @@ const options = {
       },
     },
   },
-  labels: ["Positive", "Neutral", "Negative"],
+  labels: ["Positive 😊", "Neutral 😐", "Negative 😞"],
   colors: ["#2ECC71", "#F1C40F", "#E74C3C"],
 };
 
 const SentimentPieChart = () => {
-  const [series] = useAtom(sentimentAtom); // Using the derived seriesAtom
+  const [series] = useAtom(sentimentAtom);
 
   return (
     <Chart

@@ -2,14 +2,17 @@ import { Avatar } from "flowbite-react";
 import { useAtom } from "jotai";
 import { useState } from "react";
 import { Link, Outlet } from "react-router-dom";
-import { unreviewedIntentsAtom } from "../state/state";
+import {
+  remainingUnreviewedIntentsAtom,
+  unreviewedIntentsAtom,
+} from "../state/state";
 
 const SideBar = () => {
   const [isSidebarOpen, setSidebarOpen] = useState(false);
   const toggleSidebar = () => {
     setSidebarOpen(!isSidebarOpen);
   };
-  const [unreviewedIntents] = useAtom(unreviewedIntentsAtom);
+  const [remainingIntents] = useAtom(remainingUnreviewedIntentsAtom);
 
   return (
     <>
@@ -19,7 +22,7 @@ const SideBar = () => {
         data-drawer-toggle="sidebar"
         aria-controls="sidebar"
         type="button"
-        className="inline-flex items-center p-2 mt-2 ms-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+        className="inline-flex items-center p-2 mt-2 ms-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 "
       >
         <span className="sr-only">Open sidebar</span>
         <svg
@@ -43,15 +46,15 @@ const SideBar = () => {
         } md:translate-x-0`}
         aria-label="sidebar"
       >
-        <div className="h-full px-3 py-4 overflow-y-auto bg-gray-50 dark:bg-gray-800">
+        <div className="h-full px-3 py-4 overflow-y-auto bg-gray-50 ">
           <ul className="flex flex-col gap-y-2 font-medium h-full">
             <li>
               <Link
                 to="/"
-                className="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+                className="flex items-center p-2 text-gray-900 rounded-lg hover:bg-gray-100 group"
               >
                 <svg
-                  className="w-5 h-5 text-gray-500 transition duration-75 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-white"
+                  className="w-5 h-5 text-gray-500 transition duration-75 group-hover:text-gray-900 "
                   aria-hidden="true"
                   xmlns="http://www.w3.org/2000/svg"
                   fill="currentColor"
@@ -67,10 +70,10 @@ const SideBar = () => {
             <li>
               <Link
                 to="review-calls"
-                className="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+                className="flex items-center p-2 text-gray-900 rounded-lg hover:bg-gray-100 group"
               >
                 <svg
-                  className="flex-shrink-0 w-5 h-5 text-gray-500 transition duration-75 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-white"
+                  className="flex-shrink-0 w-5 h-5 text-gray-500 transition duration-75  group-hover:text-gray-900 "
                   aria-hidden="true"
                   xmlns="http://www.w3.org/2000/svg"
                   fill="currentColor"
@@ -81,8 +84,8 @@ const SideBar = () => {
                 <span className="flex-1 ms-3 whitespace-nowrap">
                   Review calls
                 </span>
-                <span className="inline-flex items-center justify-center w-4 h-4 p-3 ms-3 text-sm font-medium text-blue-800 bg-blue-100 rounded-full dark:bg-blue-900 dark:text-blue-300">
-                  {unreviewedIntents.length}
+                <span className="inline-flex items-center justify-center w-4 h-4 p-3 ms-3 text-sm font-medium text-blue-800 bg-blue-100 rounded-full ">
+                  {remainingIntents}
                 </span>
               </Link>
             </li>

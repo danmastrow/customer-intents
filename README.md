@@ -83,7 +83,7 @@ npx cdk deploy --all # alternatively Webstack or ApiStack
 ### Initial featureset
 - [x] Implement parsing and categorizing raw data as json
 - [x] Design and build dashboard
-- [ ] Create customer intent review process
+- [x] Create customer intent review process
 - [ ] E2E tests
 - [ ] Local development setup and running readme
 - [ ] Record loom

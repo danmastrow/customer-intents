@@ -9,11 +9,26 @@ export type CustomerIntent = {
 };
 
 export const customerIntentsAtom = atom<CustomerIntent[]>([]);
+export const selectedIndexAtom = atom(0);
+
 export const isLoadingAtom = atom<boolean>(true);
 export const errorAtom = atom<string | null>(null);
 export const unreviewedIntentsAtom = atom((get) =>
   get(customerIntentsAtom).filter((intent) => intent.status === "Unreviewed")
 );
+
+export const remainingUnreviewedIntentsAtom = atom((get) => {
+  const unreviewedIntents = get(unreviewedIntentsAtom);
+  const selectedIndex = get(selectedIndexAtom);
+
+  const remaining = unreviewedIntents.length - selectedIndex;
+  return remaining > 0 ? remaining : 0;
+});
+
+export const topUnreviewedIntentAtom = atom((get) => {
+  const intents = get(customerIntentsAtom);
+  return intents.find((intent) => intent.status === "Unreviewed") || null;
+});
 
 export const latestCustomerIntentsAtom = atom((get) => {
   const intents = get(customerIntentsAtom);
@@ -58,7 +73,7 @@ export const sentimentAtom = atom((get) => {
 
 export const fetchCustomerIntentsAtom = atom(
   (get) => get(isLoadingAtom),
-  async (get, set) => {
+  async (_, set) => {
     set(isLoadingAtom, true);
     try {
       const response = await fetch(
@@ -75,34 +90,3 @@ export const fetchCustomerIntentsAtom = atom(
     }
   }
 );
-
-// // Component using Jotai atoms
-// function CustomerIntentsComponent() {
-//   const [customerIntents] = useAtom(customerIntentsAtom);
-//   const [isLoading, setIsLoading] = useAtom(isLoadingAtom);
-//   const [error] = useAtom(errorAtom);
-//   const [, fetchCustomerIntents] = useAtom(fetchCustomerIntentsAtom);
-
-//   // Fetch data on component mount
-//   useEffect(() => {
-//     fetchCustomerIntents();
-//   }, [fetchCustomerIntents]);
-
-//   if (isLoading) {
-//     return <div>Loading...</div>;
-//   }
-
-//   if (error) {
-//     return <div>{error}</div>;
-//   }
-
-//   return (
-//     <div>
-//       {customerIntents.map((intent) => (
-//         <div key={intent.id}>{intent.name}</div>
-//       ))}
-//     </div>
-//   );
-// }
-
-// export default CustomerIntentsComponent;

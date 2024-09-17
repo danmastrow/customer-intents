@@ -1,7 +1,7 @@
 const Placeholder = () => {
   return (
-    <div className="flex items-center justify-center h-64 w-full max-w-sm mb-4 rounded bg-gray-50 dark:bg-gray-800 hover:shadow-md transition-all cursor-pointer">
-      <p className="text-2xl text-gray-400 dark:text-gray-500">
+    <div className="flex items-center justify-center h-64 w-full max-w-sm mb-4 rounded bg-gray-50  hover:shadow-md transition-all cursor-pointer">
+      <p className="text-2xl text-gray-400">
         <svg
           className="w-3.5 h-3.5"
           aria-hidden="true"

@@ -2,6 +2,7 @@ import { Badge, Table } from "flowbite-react";
 import { useAtomValue } from "jotai/react";
 import React from "react";
 import { latestCustomerIntentsAtom } from "../state/state";
+import { sentimentToEmoji } from "../utils";
 
 const IntentsTable = () => {
   const customerIntents = useAtomValue(latestCustomerIntentsAtom);
@@ -47,7 +48,7 @@ const IntentsTable = () => {
                 <Table.Cell>{statusBadge(intent.status)}</Table.Cell>
                 <Table.Cell>{intent.original_reason}</Table.Cell>
                 <Table.Cell>{intent.category}</Table.Cell>
-                <Table.Cell>{intent.sentiment}</Table.Cell>
+                <Table.Cell>{sentimentToEmoji(intent.sentiment)}</Table.Cell>
                 <Table.Cell>
                   <span
                     className="font-medium text-cyan-600 hover:underline cursor-pointer"
