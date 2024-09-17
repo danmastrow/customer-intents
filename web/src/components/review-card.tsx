@@ -1,8 +1,7 @@
 import { CustomerIntent } from "../state/state";
 import { Button, Card, Dropdown, TextInput } from "flowbite-react";
-import { HiOutlineArrowRight, HiShoppingCart } from "react-icons/hi";
+import { HiOutlineArrowRight } from "react-icons/hi";
 import { sentimentToEmoji } from "../utils";
-import { useAtom } from "jotai";
 import { useState } from "react";
 
 export type ReviewModalProps = {

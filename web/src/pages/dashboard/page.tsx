@@ -3,11 +3,7 @@ import CategoryChart from "./category-chart";
 import Placeholder from "./placeholder";
 import IntentsTable from "../../components/intents-table";
 import { useAtom } from "jotai";
-import {
-  customerIntentsAtom,
-  isLoadingAtom,
-  errorAtom,
-} from "../../state/state";
+import { customerIntentsAtom } from "../../state/state";
 
 const Dashboard = () => {
   const [customerIntents] = useAtom(customerIntentsAtom);

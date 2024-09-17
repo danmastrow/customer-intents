@@ -2,10 +2,7 @@ import { Avatar } from "flowbite-react";
 import { useAtom } from "jotai";
 import { useState } from "react";
 import { Link, Outlet } from "react-router-dom";
-import {
-  remainingUnreviewedIntentsAtom,
-  unreviewedIntentsAtom,
-} from "../state/state";
+import { remainingUnreviewedIntentsAtom } from "../state/state";
 
 const SideBar = () => {
   const [isSidebarOpen, setSidebarOpen] = useState(false);
