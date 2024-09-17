@@ -127,7 +127,7 @@ docker run -p 3005:3000 879381257941.dkr.ecr.ap-southeast-2.amazonaws.com/api:v3
 - [x] Customer intent review process POC
 - [x] E2E tests
 - [x] Local development setup and running readme
-- [ ] Record loom
+- [x] Record loom
 
 ### Future Improvements
 - [ ] Component level tests
