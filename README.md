@@ -1,9 +1,18 @@
 # Customer Intents
 ![app preview](docs/preview.png)
+<div>
+    <a href="https://www.loom.com/share/95d1af01bc5d49eeb1fb066d645f1805">
+      <p>Loom demo and high level walkthrough</p>
+    </a>
+    <a href="https://www.loom.com/share/95d1af01bc5d49eeb1fb066d645f1805">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/95d1af01bc5d49eeb1fb066d645f1805-540903d5bc882597-full-play.gif">
+    </a>
+  </div>
 
 ## Demo deployed on AWS
 - [Web](https://d4xr38f7ml990.cloudfront.net)
 - [API](https://d1fno9ot74vctf.cloudfront.net)
+
 
 ## Initial spec
 Your task is to build a webpage which provides an analytical dashboard of the distribution of the caller intents. You will be given a list of intents for the calls in a file as input. It is up to you how you present this data to the user.
