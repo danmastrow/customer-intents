@@ -1,4 +1,5 @@
 # Customer Intents
+![app preview](docs/preview.png)
 
 For each call we use a generative model to categorise the intent of the call. For example for a Telco company, if the customer is calling to enquire about their prepaid mobile balance, the model might produce ‘prepaid mobile balance enquiry’ as the intent.
 <br/>
@@ -34,8 +35,9 @@ It is a requirement that the webpage has the associated code to deploy it to AWS
 ## Local development
 
 ### Prerequisites
-[pnpm](https://pnpm.io/installation)
-[aws cli](https://aws.amazon.com/cli)
+- [nodejs](https://nodejs.org)
+- [pnpm](https://pnpm.io/installation)
+- [aws cli](https://aws.amazon.com/cli)
 
 ## API
 ```bash
@@ -57,7 +59,14 @@ cd ./web
 pnpm i
 
 pnpm dev
+```
 
+### E2E Tests
+
+![e2e preview](docs/e2e.png)
+```bash
+cd ./web
+pnpm test:e2e:ui 
 ```
 
 ## Infra
@@ -115,8 +124,8 @@ docker run -p 3005:3000 879381257941.dkr.ecr.ap-southeast-2.amazonaws.com/api:v3
 - [x] Implement parsing and categorizing raw data as json
 - [x] Design and build dashboard
 - [x] Customer intent review process POC
-- [ ] E2E tests
-- [ ] Local development setup and running readme
+- [x] E2E tests
+- [x] Local development setup and running readme
 - [ ] Record loom
 
 ### Future Improvements
