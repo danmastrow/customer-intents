@@ -1,26 +1,16 @@
-import { useEffect, useState } from "react";
-import { CustomerIntent } from "../models/customer-intents";
 import SentimentPieChart from "./sentiment-pie-chart";
 import CategoryChart from "./category-chart";
 import Placeholder from "./placeholder";
-import IntentsTable from "./intents-table";
+import IntentsTable from "../../components/intents-table";
+import { useAtom } from "jotai";
+import {
+  customerIntentsAtom,
+  isLoadingAtom,
+  errorAtom,
+} from "../../state/state";
 
 const Dashboard = () => {
-  const [customerIntents, setCustomerIntents] = useState<CustomerIntent[]>([]);
-  const [_isLoading, setIsLoading] = useState(true);
-  const [_error, setError] = useState<string | null>(null);
-
-  useEffect(() => {
-    setIsLoading(true);
-    fetch(`${process.env.REACT_APP_API_URL}/customer-intents`)
-      .then((response) => response.json())
-      .then((data) => setCustomerIntents(data))
-      .catch((error) => {
-        console.error(error);
-        setError("There was an error loading the dashboard data.");
-      })
-      .finally(() => setIsLoading(false));
-  }, []);
+  const [customerIntents] = useAtom(customerIntentsAtom);
 
   return (
     <>
@@ -40,15 +30,17 @@ const Dashboard = () => {
               <h3 className="sm:text-2xl text-xl ml-6 mt-4 font-light">
                 Call category summary
               </h3>
-
-              <CategoryChart intents={customerIntents} />
+              <h4 className="ml-6 text-gray-700">
+                {customerIntents.length} calls total.
+              </h4>
+              <CategoryChart />
             </div>
             <div className="border rounded-md hover:shadow-md transition-all">
               <h3 className="sm:text-2xl text-xl mt-4 ml-4 font-light">
                 Customer sentiment overview
               </h3>
 
-              <SentimentPieChart intents={customerIntents} />
+              <SentimentPieChart />
             </div>
           </div>
 
@@ -57,7 +49,7 @@ const Dashboard = () => {
               Latest customer calls
             </h3>
 
-            <IntentsTable intents={customerIntents.slice(0, 5)} />
+            <IntentsTable />
             <div className="grid sm:grid-cols-2 grid-cols-1">
               <Placeholder />
               <div></div>

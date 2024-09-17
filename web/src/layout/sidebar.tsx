@@ -1,12 +1,16 @@
 import { Avatar } from "flowbite-react";
+import { useAtom } from "jotai";
 import { useState } from "react";
 import { Link, Outlet } from "react-router-dom";
+import { unreviewedIntentsAtom } from "../state/state";
 
 const SideBar = () => {
   const [isSidebarOpen, setSidebarOpen] = useState(false);
   const toggleSidebar = () => {
     setSidebarOpen(!isSidebarOpen);
   };
+  const [unreviewedIntents] = useAtom(unreviewedIntentsAtom);
+
   return (
     <>
       <button
@@ -77,8 +81,8 @@ const SideBar = () => {
                 <span className="flex-1 ms-3 whitespace-nowrap">
                   Review calls
                 </span>
-                <span className="inline-flex items-center justify-center w-3 h-3 p-3 ms-3 text-sm font-medium text-blue-800 bg-blue-100 rounded-full dark:bg-blue-900 dark:text-blue-300">
-                  8
+                <span className="inline-flex items-center justify-center w-4 h-4 p-3 ms-3 text-sm font-medium text-blue-800 bg-blue-100 rounded-full dark:bg-blue-900 dark:text-blue-300">
+                  {unreviewedIntents.length}
                 </span>
               </Link>
             </li>

@@ -1,9 +1,6 @@
-import { CustomerIntent } from "../models/customer-intents";
 import Chart from "react-apexcharts";
-
-export type CategoryChartProps = {
-  intents: CustomerIntent[];
-};
+import { sentimentAtom } from "../../state/state";
+import { useAtom } from "jotai";
 
 const options = {
   chart: {
@@ -26,20 +23,9 @@ const options = {
   colors: ["#2ECC71", "#F1C40F", "#E74C3C"],
 };
 
-const SentimentPieChart = ({ intents }: CategoryChartProps) => {
-  const series = intents.reduce(
-    (acc, intent) => {
-      if (intent.sentiment === "Positive") {
-        acc[0]++;
-      } else if (intent.sentiment === "Neutral") {
-        acc[1]++;
-      } else if (intent.sentiment === "Negative") {
-        acc[2]++;
-      }
-      return acc;
-    },
-    [0, 0, 0]
-  );
+const SentimentPieChart = () => {
+  const [series] = useAtom(sentimentAtom); // Using the derived seriesAtom
+
   return (
     <Chart
       height={350}

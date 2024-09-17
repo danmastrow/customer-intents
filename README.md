@@ -2,7 +2,7 @@
 
 ## Live deployment
 - [Web](https://d4xr38f7ml990.cloudfront.net)
-- [API]
+- [API](https://d1fno9ot74vctf.cloudfront.net)
 
 ## Apps and Packages
 
@@ -19,8 +19,22 @@ pnpm build
 ```
 
 ```bash
-# If wanting to use docker for 
+# If wanting to use docker for the API
 docker build --platform linux/amd64 -t api .
+docker tag api:latest <acount_number>.dkr.ecr.ap-southeast-2.amazonaws.com/api:latest
+docker push acount_number.dkr.ecr.ap-southeast-2.amazonaws.com/api:latest
+
+# etc
+docker build --platform linux/amd64 -t api .
+docker tag api 879381257941.dkr.ecr.ap-southeast-2.amazonaws.com/api:v4
+docker push 879381257941.dkr.ecr.ap-southeast-2.amazonaws.com/api:v4
+
+
+# local
+# docker pull 879381257941.dkr.ecr.ap-southeast-2.amazonaws.com/api:v3
+# docker run -p 3005:3000 879381257941.dkr.ecr.ap-southeast-2.amazonaws.com/api:v3
+
+# 879381257941.dkr.ecr.ap-southeast-2.amazonaws.com/api:v3
 ```
 
 ## Develop
@@ -71,12 +85,15 @@ npx cdk deploy --all # alternatively Webstack or ApiStack
 - [x] Design and build dashboard
 - [ ] Create customer intent review process
 - [ ] E2E tests
+- [ ] Local development setup and running readme
+- [ ] Record loom
 
 ### Future Improvements
 - [ ] Setup GitHub actions to build + test + deploy
-- [ ] Setup postgres database instead of json file
+- [ ] Setup postgres database instead of json file/internal state
 - [ ] Determine whether to use prisma or something else for ORM + Migrations
 - [ ] Design db schema and seed data
+- [ ] Integrate API with database
 
 
 ## Out of scope

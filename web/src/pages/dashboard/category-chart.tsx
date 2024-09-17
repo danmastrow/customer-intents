@@ -1,23 +1,10 @@
-import { CustomerIntent } from "../models/customer-intents";
+import { useAtom } from "jotai";
 import Chart from "react-apexcharts";
+import { categoryAtom, sortedCategoryAtom } from "../../state/state";
 
-export type CategoryChartProps = {
-  intents: CustomerIntent[];
-};
-
-const CategoryChart = ({ intents }: CategoryChartProps) => {
-  const categoryData = intents.reduce((acc, intent) => {
-    if (acc[intent.category]) {
-      acc[intent.category] += 1;
-    } else {
-      acc[intent.category] = 1;
-    }
-    return acc;
-  }, {} as { [key: string]: number });
-
-  const sortedData = Object.entries(categoryData)
-    .sort((a, b) => b[1] - a[1])
-    .map(([_, value]) => value);
+const CategoryChart = () => {
+  const [categoryData] = useAtom(categoryAtom);
+  const [sortedData] = useAtom(sortedCategoryAtom);
 
   const series = [
     {

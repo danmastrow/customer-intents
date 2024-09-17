@@ -5,6 +5,7 @@ import { Distribution, ViewerProtocolPolicy, OriginAccessIdentity } from 'aws-cd
 import { BucketDeployment, Source } from 'aws-cdk-lib/aws-s3-deployment';
 import { PolicyStatement } from 'aws-cdk-lib/aws-iam';
 import { S3Origin } from 'aws-cdk-lib/aws-cloudfront-origins';
+import { execSync } from 'child_process';
 
 export class WebStack extends cdk.Stack {
     constructor(scope: Construct, id: string, props?: cdk.StackProps) {
@@ -46,6 +47,10 @@ export class WebStack extends cdk.Stack {
                 },
             ],
         });
+
+        // TODO: Remove this if refactoring into Github Actions later
+        // Run the React build process
+        execSync('npm run build', { cwd: '../web', stdio: 'inherit' });
 
         // Deploy the website files to S3
         new BucketDeployment(this, 'DeployWebsite', {

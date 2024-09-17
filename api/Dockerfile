@@ -2,16 +2,16 @@
 FROM node:18-alpine AS builder
 WORKDIR /app
 
-# Copy the package.json and pnpm-lock.yaml
-COPY package.json pnpm-lock.yaml ./
-
 # Install pnpm globally
 RUN npm install -g pnpm
+
+# Copy the package.json and pnpm-lock.yaml first to leverage Docker layer caching for dependencies
+COPY package.json pnpm-lock.yaml ./
 
 # Install dependencies
 RUN pnpm install
 
-# Copy the NestJS app source code
+# Copy the NestJS app source code (this will invalidate the cache when the source code changes)
 COPY ./ ./
 
 # Build the app

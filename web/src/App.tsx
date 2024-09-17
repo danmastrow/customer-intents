@@ -1,11 +1,10 @@
-import Dashboard from "./dashboard/page";
+import Dashboard from "./pages/dashboard/page";
 import Sidebar from "./layout/sidebar";
-import {
-  createBrowserRouter,
-  RouterProvider,
-  Route,
-  Link,
-} from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import ReviewCalls from "./pages/review-calls/page";
+import { useAtom } from "jotai";
+import { useEffect } from "react";
+import { fetchCustomerIntentsAtom } from "./state/state";
 
 const router = createBrowserRouter([
   {
@@ -18,18 +17,19 @@ const router = createBrowserRouter([
       },
       {
         path: "review-calls",
-        element: <div className="p-4">Todo review calls here.</div>,
+        element: <ReviewCalls />,
       },
     ],
   },
 ]);
 
 function App() {
-  return (
-    <>
-      <RouterProvider router={router}></RouterProvider>
-    </>
-  );
+  const [, fetchCustomerIntents] = useAtom(fetchCustomerIntentsAtom);
+
+  useEffect(() => {
+    fetchCustomerIntents();
+  }, [fetchCustomerIntents]);
+  return <RouterProvider router={router} />;
 }
 
 export default App;
