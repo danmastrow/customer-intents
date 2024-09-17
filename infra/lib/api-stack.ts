@@ -1,76 +1,95 @@
 import * as cdk from 'aws-cdk-lib';
+import { Stack, StackProps } from 'aws-cdk-lib';
+import { Vpc, SubnetType } from 'aws-cdk-lib/aws-ec2';
+import { Cluster } from 'aws-cdk-lib/aws-ecs';
+import { ApplicationLoadBalancer, ApplicationProtocol, ListenerAction } from 'aws-cdk-lib/aws-elasticloadbalancingv2';
+import { FargateService, FargateTaskDefinition, ContainerImage } from 'aws-cdk-lib/aws-ecs';
 import { Construct } from 'constructs';
-import { Vpc } from 'aws-cdk-lib/aws-ec2';
-import { Cluster, Ec2Service, Ec2TaskDefinition, ContainerImage } from 'aws-cdk-lib/aws-ecs';
-import { InstanceType } from 'aws-cdk-lib/aws-ec2';
-import { ApplicationLoadBalancer, ApplicationProtocol } from 'aws-cdk-lib/aws-elasticloadbalancingv2';
-import * as iam from 'aws-cdk-lib/aws-iam';
+import * as ecs from 'aws-cdk-lib/aws-ecs';
+import { Repository } from 'aws-cdk-lib/aws-ecr';
 
-export class ApiStack extends cdk.Stack {
-    constructor(scope: Construct, id: string, props?: cdk.StackProps) {
+export class ApiStack extends Stack {
+    constructor(scope: Construct, id: string, props?: StackProps) {
         super(scope, id, props);
 
-        // 1. Create a VPC
-        const vpc = new Vpc(this, 'Vpc', {
-            maxAzs: 2, // Spread across 2 availability zones
+        // Create a VPC for your Fargate service
+        const vpc = new Vpc(this, 'ApiVpc', {
+            maxAzs: 3, // Default is all AZs in the region
+            subnetConfiguration: [
+                {
+                    name: 'PublicSubnet',
+                    subnetType: SubnetType.PUBLIC,
+                },
+                {
+                    name: 'PrivateSubnet',
+                    subnetType: SubnetType.PRIVATE_WITH_NAT,
+                },
+            ],
         });
 
-        // 2. Create an ECS Cluster
-        const cluster = new Cluster(this, 'EcsCluster', {
+        // Create an ECS cluster within the VPC
+        const cluster = new Cluster(this, 'ApiCluster', {
             vpc,
         });
 
-        // 3. Create an ECS Task Definition for EC2
-        const taskDefinition = new Ec2TaskDefinition(this, 'TaskDef', {
-            // @ts-ignore
-            networkMode: "bridge"
-        });
 
-        // 4. Add a container to the task definition using the ECR image
-        const container = taskDefinition.addContainer('NestJsContainer', {
-            image: ContainerImage.fromRegistry('<aws_account_id>.dkr.ecr.your-region.amazonaws.com/nestjs-api:latest'), // Replace with your ECR image URL
+        // Get the ECR repository
+        const repository = Repository.fromRepositoryName(this, 'ApiRepository', 'api');
+
+        // Define a Fargate task definition
+        const taskDefinition = new ecs.FargateTaskDefinition(this, 'ApiTaskDefinition', {
             memoryLimitMiB: 512,
             cpu: 256,
         });
 
+        // Add container to the task definition
+        const container = taskDefinition.addContainer('ApiContainer', {
+            image: ecs.ContainerImage.fromEcrRepository(repository),
+            environment: {
+                NODE_ENV: 'production',
+            },
+            logging: new ecs.AwsLogDriver({
+                streamPrefix: 'ApiLogs',
+            }),
+        });
+
+        // Optional: Add port mappings if your app listens on a specific port
         container.addPortMappings({
             containerPort: 3000,
-            hostPort: 3000,
-            protocol: cdk.aws_ecs.Protocol.TCP,
+            protocol: ecs.Protocol.TCP,
         });
 
-        // 5. Create an ECS EC2 service
-        const ecsService = new Ec2Service(this, 'NestJsService', {
+        // Create a Fargate service
+        const fargateService = new FargateService(this, 'ApiFargateService', {
             cluster,
             taskDefinition,
-            desiredCount: 1, // Running a single instance of the task
+            desiredCount: 2, // Number of tasks to run
+            assignPublicIp: true, // Whether the service should have public IP addresses
         });
 
-        // 6. Create an Application Load Balancer
-        const loadBalancer = new ApplicationLoadBalancer(this, 'ApiLoadBalancer', {
+        // Optional: Create an Application Load Balancer (ALB) for the Fargate service
+        const alb = new ApplicationLoadBalancer(this, 'ApiALB', {
             vpc,
-            internetFacing: true,
+            internetFacing: true, // Public access to ALB
         });
 
-        // 7. Add a listener to the load balancer on port 80
-        const listener = loadBalancer.addListener('Listener', {
+        const listener = alb.addListener('ApiListener', {
             port: 80,
-            open: true,
         });
 
-        // 8. Attach the ECS service to the Load Balancer
-        listener.addTargets('EcsTargets', {
-            port: 80,
-            targets: [ecsService],
+        // Forward traffic from ALB to the Fargate service
+        listener.addTargets('ApiTargetGroup', {
+            port: 3000,
+            targets: [fargateService],
             healthCheck: {
                 path: '/',
-                interval: cdk.Duration.seconds(30),
             },
+            protocol: ApplicationProtocol.HTTP,
         });
 
-        // 9. Output the Load Balancer DNS name
-        new cdk.CfnOutput(this, 'LoadBalancerDNS', {
-            value: loadBalancer.loadBalancerDnsName,
+        // Output the ALB DNS so you can access your service
+        new cdk.CfnOutput(this, 'ApiUrl', {
+            value: alb.loadBalancerDnsName,
         });
     }
 }

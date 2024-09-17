@@ -1,5 +1,6 @@
 import { Table } from "flowbite-react";
 import { CustomerIntent } from "../models/customer-intents";
+import React from "react";
 
 export type IntentsTableProps = {
   intents: CustomerIntent[];
@@ -7,7 +8,6 @@ export type IntentsTableProps = {
 
 const IntentsTable = ({ intents }: IntentsTableProps) => {
   const text = "Edit";
-  const limitedIntents = intents.slice(0, 5);
   return (
     <div className="overflow-x-auto">
       <Table hoverable>
@@ -20,17 +20,19 @@ const IntentsTable = ({ intents }: IntentsTableProps) => {
           </Table.HeadCell>
         </Table.Head>
         <Table.Body className="divide-y">
-          {limitedIntents.map((intent) => (
-            <Table.Row className="bg-white">
-              <Table.Cell>{intent.original_reason}</Table.Cell>
-              <Table.Cell>{intent.category}</Table.Cell>
-              <Table.Cell>{intent.sentiment}</Table.Cell>
-              <Table.Cell>
-                <span className="font-medium text-cyan-600 hover:underline cursor-pointer">
-                  {text}
-                </span>
-              </Table.Cell>
-            </Table.Row>
+          {intents.map((intent) => (
+            <React.Fragment key={intent.original_reason}>
+              <Table.Row className="bg-white">
+                <Table.Cell>{intent.original_reason}</Table.Cell>
+                <Table.Cell>{intent.category}</Table.Cell>
+                <Table.Cell>{intent.sentiment}</Table.Cell>
+                <Table.Cell>
+                  <span className="font-medium text-cyan-600 hover:underline cursor-pointer">
+                    {text}
+                  </span>
+                </Table.Cell>
+              </Table.Row>
+            </React.Fragment>
           ))}
         </Table.Body>
       </Table>

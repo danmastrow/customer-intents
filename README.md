@@ -19,9 +19,8 @@ pnpm build
 ```
 
 ```bash
-# If wanting to use docker
-docker build -t api -f api/Dockerfile .
-
+# If wanting to use docker for 
+docker build --platform linux/amd64 -t api .
 ```
 
 ## Develop
@@ -66,16 +65,16 @@ npx cdk deploy --all # alternatively Webstack or ApiStack
 - [x] Setup UI with basic react app
 - [x] Setup NestJs api
 - [x] Setup infra with AWS CDK
-- [ ] Get basic app deployed with GitHub actions - infra and calling api
 
 ### Initial featureset
-- [ ] Implement parsing and categorizing raw data as json
-- [ ] Design and build dashboard
-
+- [x] Implement parsing and categorizing raw data as json
+- [x] Design and build dashboard
+- [ ] Create customer intent review process
+- [ ] E2E tests
 
 ### Future Improvements
 - [ ] Setup GitHub actions to build + test + deploy
-- [ ] Setup postgres database
+- [ ] Setup postgres database instead of json file
 - [ ] Determine whether to use prisma or something else for ORM + Migrations
 - [ ] Design db schema and seed data
 

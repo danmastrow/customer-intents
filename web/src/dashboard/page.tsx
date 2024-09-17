@@ -37,15 +37,27 @@ const Dashboard = () => {
 
           <div className="grid lg:grid-cols-2 grid-cols-1 gap-4 mb-4">
             <div className="border rounded-md hover:shadow-md transition-all bg-gray-100">
+              <h3 className="sm:text-2xl text-xl ml-6 mt-4 font-light">
+                Call category summary
+              </h3>
+
               <CategoryChart intents={customerIntents} />
             </div>
             <div className="border rounded-md hover:shadow-md transition-all">
+              <h3 className="sm:text-2xl text-xl mt-4 ml-4 font-light">
+                Customer sentiment overview
+              </h3>
+
               <SentimentPieChart intents={customerIntents} />
             </div>
           </div>
 
           <div className="grid grid-cols-1 gap-4 mt-16">
-            <IntentsTable intents={customerIntents} />
+            <h3 className="sm:text-2xl ml-4 font-light text-xl">
+              Latest customer calls
+            </h3>
+
+            <IntentsTable intents={customerIntents.slice(0, 5)} />
             <div className="grid sm:grid-cols-2 grid-cols-1">
               <Placeholder />
               <div></div>
