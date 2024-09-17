@@ -1,15 +1,11 @@
 # Customer Intents
 ![app preview](docs/preview.png)
 
-For each call we use a generative model to categorise the intent of the call. For example for a Telco company, if the customer is calling to enquire about their prepaid mobile balance, the model might produce ‘prepaid mobile balance enquiry’ as the intent.
-<br/>
-<br/>
-This is a powerful feature which enables customers to, in real-time, get insights into why their customers are calling. This is without having to come up with the categories beforehand, or train a classification model. If a new problem comes up, it is immediately surfaced in the analytics results.
-<br/>
-<br/>
-However, there is a drawback to this method.  As it is generative there can be many different ways of saying the same thing. In the above example you may get some calls saying ‘prepaid mobile balance’, some just ‘balance enquiry’ some saying ‘prepaid enquiries’. This makes for a messy dashboard.
-<br/>
-<br/>
+## Demo deployed on AWS
+- [Web](https://d4xr38f7ml990.cloudfront.net)
+- [API](https://d1fno9ot74vctf.cloudfront.net)
+
+## Initial spec
 Your task is to build a webpage which provides an analytical dashboard of the distribution of the caller intents. You will be given a list of intents for the calls in a file as input. It is up to you how you present this data to the user.
 <br/>
 <br/>
@@ -19,10 +15,6 @@ mentioned in the background information.
 <br/>
 It is a requirement that the webpage has the associated code to deploy it to AWS for hosting.
 
-
-## Live deployment
-- [Web](https://d4xr38f7ml990.cloudfront.net)
-- [API](https://d1fno9ot74vctf.cloudfront.net)
 
 ## Apps and Packages
 
